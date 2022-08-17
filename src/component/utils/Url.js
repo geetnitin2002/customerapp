@@ -1,0 +1,1 @@
+export default url = 'http://54.219.23.63:3000/serviceapp';
